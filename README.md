@@ -5,3 +5,4 @@ repo for learning git and work collaboratively
 
 ## Nombres
 1. Santi
+2. Mario
