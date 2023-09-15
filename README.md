@@ -1,6 +1,8 @@
 # myj
 repo for learning git and work collaboratively
-https://www.youtube.com/watch?v=xvFZjo5PgG0
+** Me puse a practicar markdown , disculpa el despelote santi -Max **
+### https://www.youtube.com/watch?v=xvFZjo5PgG0
+
 <hr>
 
 ## Nombres
