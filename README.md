@@ -1,6 +1,6 @@
 # myj
 repo for learning git and work collaboratively
-** Me puse a practicar markdown , disculpa el despelote santi -Max **
+
 ### https://www.youtube.com/watch?v=xvFZjo5PgG0
 
 <hr>
