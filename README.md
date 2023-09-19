@@ -1,6 +1,6 @@
 # myj
 repo for learning git and work collaboratively
-# ** CONFIGUREN LAS PC VAGOS **
+# **CONFIGUREN LAS PC VAGOS**
 ### This is abandoned 
 ### https://www.youtube.com/watch?v=xvFZjo5PgG0
 
